@@ -9,7 +9,7 @@ const description = null || document.querySelector("#description");
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": "6c7040cbfcmsh2c9609217ea14f2p1e9764jsn5db46c82de78",
+    "X-RapidAPI-Key": undefined,
     "X-RapidAPI-Host": "youtube-v31.p.rapidapi.com",
   },
 };
